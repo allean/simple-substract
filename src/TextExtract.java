@@ -37,7 +37,7 @@ public class TextExtract {
 		flag = false;
 		/* 当待抽取的网页正文中遇到成块的新闻标题未剔除时，只要增大此阈值即可。*/
 		/* 阈值增大，准确率提升，召回率下降；值变小，噪声会大，但可以保证抽到只有一句话的正文 */
-		threshold	= 150;   
+		threshold	= 150;
 	}
 	
 	public static void setthreshold(int value) {
