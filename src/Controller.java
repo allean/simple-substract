@@ -8,12 +8,12 @@ import edu.uci.ics.crawler4j.url.WebURL;
 public class Controller {
         public static void main(String[] args) throws Exception {
                 String crawlStorageFolder = "./crawl/root";
-                int numberOfCrawlers = 1;
+                int numberOfCrawlers = 5;
 
                 CrawlConfig config = new CrawlConfig();
                 config.setCrawlStorageFolder(crawlStorageFolder);
 
-                config.setMaxPagesToFetch(5);
+                config.setMaxPagesToFetch(50);
                 config.setMaxDepthOfCrawling(1);
                 /*
                  * Instantiate the controller for this crawl.
