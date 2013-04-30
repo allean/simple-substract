@@ -62,9 +62,9 @@ public class WordGen {
 //		htmls.add("http://shipei.qq.com/c/news/20130415001173/MIL2013041500117300");
 //		htmls.add("http://shipei.qq.com/c/news/20130415001177/MIL2013041500117700");
 //		htmls.add("http://shipei.qq.com/c/news/20130415001171/MIL2013041500117100");
-//		htmls.add("http://shipei.qq.com/c/news/20130415001034/MIL2013041500103401");
+// 		htmls.add("http://shipei.qq.com/c/news/20130415001034/MIL2013041500103401");
 		
-		htmls.add("http://shipei.qq.com/a/news/20130415001512/NEW2013041500151201#TencentContent");
+		htmls.add("http://www.bbc.co.uk/news/world-europe-22348160");
 		
 		
 
